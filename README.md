@@ -9,6 +9,6 @@ Browse and purchase courses.
 Access and learn from enrolled courses.
 Technologies Used 🛠
 Backend: Django (Python)
-Database: SQLite 
-Frontend: HTML, CSS, tailwind css
+Database: SQLite / PostgreSQL (as needed)
+Frontend: HTML, CSS, JavaScript (if applicable)
 Authentication: Django User Authentication
